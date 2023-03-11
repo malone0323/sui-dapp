@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text__12 {
+    @apply text-[12px]
+}
+
+.text__14 {
+    @apply text-[12px] lg:text-[14px]
+}
+
+.text__16 {
+    @apply text-[12px] xs:text-[14px] lg:text-[16px]
+}
+
+.text__18 {
+    @apply text-[14px] md:text-[16px] lg:text-[18px]
+}
+
+.text__20 {
+    @apply text-[16px] md:text-[18px] lg:text-[20px]
+}
+.text__22 {
+    @apply text-[14px] xs:text-[16px] md:text-[18px] xl:text-[22px]
+}
+
+.text__24 {
+    @apply text-[14px] xs:text-[16px] sm:text-[18px] md:text-[20px] lg:text-[24px]
+}
+.text__28 {
+    @apply text-[18px] md:text-[20px] lg:text-[24px] xl:text-[28px]
+}
+
+.text__32 {
+    @apply text-[18px] sm:text-[20px] md:text-[24px] lg:text-[32px]
+}
+.text__36 {
+    @apply text-[20px] sm:text-[24px] md:text-[28px] lg:text-[36px]
+}
+
+.text__40 {
+    @apply text-[24px] md:text-[28px] lg:text-[32px] xl:text-[40px]
+}
+.text__46 {
+    @apply text-[18px] xs:text-[24px] md:text-[28px] lg:text-[32px] xl:text-[46px]
+}
+.text__48 {
+    @apply text-[20px] xs:text-[24px] md:text-[28px] lg:text-[32px] xl:text-[48px]
+}
+.text__50 {
+    @apply text-[28px] md:text-[32px] lg:text-[48px] xl:text-[50px]
+}
+.text__56 {
+    @apply text-[28px] xxs:text-[32px] md:text-[40px] lg:text-[48px] xl:text-[56px]
+}
+
+.text__64 {
+    @apply text-[32px] md:text-[38px] lg:text-[40px] xl:text-[64px]
+}
+.text__72 {
+    @apply text-[32px] md:text-[40px] lg:text-[64px] xl:text-[72px]
+}
+.text__80 {
+    @apply text-[32px] md:text-[40px] lg:text-[64px] xl:text-[80px]
+}
+.text__88 {
+    @apply text-[28px] xx:text-[32px] md:text-[40px] lg:text-[64px] xl:text-[88px]
+}
+.text__112 {
+    @apply text-[40px] ss:text-[64px] lg:text-[90px] xl:text-[112px]
+}
+.text__122 {
+    @apply text-[40px] md:text-[64px] lg:text-[90px] xl:text-[122px]
+}
